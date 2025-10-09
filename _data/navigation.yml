@@ -8,26 +8,26 @@ main:
 pages:
   - title: "STN Details"
     children:
-      - title: "Committee"
+      - title: " - Committee"
         url: /about_STN/  
-      - title: "Aims"
+      - title: " - Aims"
         url: /about_STN/  
-      - title: "Plans"
+      - title: " - Plans"
         url: /about_STN/ 
   
   - title: "Porto 2026 Meeting"
     children:
-      - title: "Porto Meeting Details"
+      - title: " - Porto Meeting Details"
         url: /porto/ 
 
   - title: "Tutorials"
     children:
-      - title: "Tutorial 1 - "
+      - title: " - Tutorial 1 - "
         url: /SV_tutorial_01/ 
-      - title: "Tutorial 2 - "
+      - title: " - Tutorial 2 - "
         url: /SV_tutorial_01/
-      - title: "Tutorial 3 - "
+      - title: " - Tutorial 3 - "
         url: /SV_tutorial_01/
-      - title: "Tutorial 4 - "
+      - title: " - Tutorial 4 - "
         url: /SV_tutorial_01/
     
