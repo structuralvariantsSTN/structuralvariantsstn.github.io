@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eukaryotic Genome Assembly Using PacBio and Hi-C"
+title                    : "Structural Variants ESEB Special Topic Network"
 title_separator          : "|"
-name                     : "Marcela Uliano & João Ferreira"
-description              : "Physalia course, November 2020"
+name                     : "SV ESEB STN"
+description              : "ESEB Special Topic Network"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : eukaryotic-genome-assembly/eukaryotic-genome-assembly.github.io
+repository               : structuralvariantsSTN/structuralvariantsSTN.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
