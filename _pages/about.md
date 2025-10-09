@@ -1,5 +1,5 @@
 ---
-title: "Course teachers"
+title: "About the STN"
 layout: archive
 permalink: /about/
 ---
