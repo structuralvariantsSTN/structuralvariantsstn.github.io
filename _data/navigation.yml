@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    url: https://eukaryotic-genome-assembly.github.io/
+    url: https://structuralvariantsstn.github.io/
   - title: "About the STN"
-    url: https://eukaryotic-genome-assembly.github.io/about/
+    url: https://structuralvariantsstn.github.io/about/
 
 pages:
-  - title: "Special Topic Network Details"
+  - title: "STN Details"
     children:
       - title: "- Basic concepts"
         url: /linux_basics/  
   
-  - title: "1st Meeting of the STN Porto 2026"
+  - title: "Porto 2026 Meeting"
     children:
       - title: "- Installing IGV"
         url: /igv_installation/ 
