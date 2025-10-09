@@ -9,11 +9,11 @@ pages:
   - title: "STN Details"
     children:
       - title: " - Committee"
-        url: /about_STN/  
+        url: /committee/  
       - title: " - Aims"
-        url: /about_STN/  
+        url: /aims/  
       - title: " - Plans"
-        url: /about_STN/ 
+        url: /plans/ 
   
   - title: "Porto 2026 Meeting"
     children:
