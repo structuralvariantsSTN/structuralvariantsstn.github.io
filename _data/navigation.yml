@@ -8,12 +8,16 @@ main:
 pages:
   - title: "STN Details"
     children:
-      - title: "- Basic concepts"
+      - title: "Committee"
         url: /about_STN/  
+      - title: "Aims"
+        url: /about_STN/  
+      - title: "Plans"
+        url: /about_STN/ 
   
   - title: "Porto 2026 Meeting"
     children:
-      - title: "informmation on Porto meeting"
+      - title: "Porto Meeting Details"
         url: /porto/ 
 
   - title: "Tutorials"
