@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About the Structural Variant Special Topic Network"
 layout: archive
 permalink: /about_STN/
 ---
