@@ -1,3 +1,10 @@
-## This page will provide info about the STN, the committee etc.
+---
+title: ""
+layout: archive
+permalink: /about_STN/
+---
 
-Text 
+
+![](/images/conda_logo.svg)
+
+Here we can put text
