@@ -26,12 +26,12 @@ pages:
 
   - title: "Tutorials"
     children:
-      - title: " - Tutorial 1 - "
+      - title: " - Tutorial 1"
         url: /SV_tutorial/ 
-      - title: " - Tutorial 2 - "
+      - title: " - Tutorial 2"
         url: /SV_tutorial/
-      - title: " - Tutorial 3 - "
+      - title: " - Tutorial 3"
         url: /SV_tutorial/
-      - title: " - Tutorial 4 - "
+      - title: " - Tutorial 4"
         url: /SV_tutorial/
     
