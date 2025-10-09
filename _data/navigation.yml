@@ -22,6 +22,12 @@ pages:
 
   - title: "Tutorials"
     children:
-      - title: "Tutorial 1"
+      - title: "Tutorial 1 - "
         url: /SV_tutorial_01/ 
+      - title: "Tutorial 2 - "
+        url: /SV_tutorial_01/
+      - title: "Tutorial 3 - "
+        url: /SV_tutorial_01/
+      - title: "Tutorial 4 - "
+        url: /SV_tutorial_01/
     
