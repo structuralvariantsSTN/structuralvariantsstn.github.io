@@ -13,11 +13,11 @@ pages:
   
   - title: "Porto 2026 Meeting"
     children:
-      - title: "- Installing IGV"
-        url: /igv_installation/ 
+      - title: "informmation on Porto meeting"
+        url: /porto/ 
 
   - title: "Structural Variation Tutorials"
     children:
-      - title: "- Installing IGV"
-        url: /igv_installation/ 
+      - title: "Tutorial 1"
+        url: /SV_tutorial_01/ 
     
