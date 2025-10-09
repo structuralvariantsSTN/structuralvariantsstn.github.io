@@ -16,7 +16,7 @@ pages:
       - title: "informmation on Porto meeting"
         url: /porto/ 
 
-  - title: "Structural Variation Tutorials"
+  - title: "Tutorials"
     children:
       - title: "Tutorial 1"
         url: /SV_tutorial_01/ 
