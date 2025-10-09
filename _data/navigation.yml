@@ -9,7 +9,7 @@ pages:
   - title: "STN Details"
     children:
       - title: "- Basic concepts"
-        url: /linux_basics/  
+        url: /about_STN/  
   
   - title: "Porto 2026 Meeting"
     children:
