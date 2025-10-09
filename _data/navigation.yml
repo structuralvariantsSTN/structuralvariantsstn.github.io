@@ -2,67 +2,22 @@
 main:
   - title: "Home"
     url: https://eukaryotic-genome-assembly.github.io/
-  - title: "About"
+  - title: "About the STN"
     url: https://eukaryotic-genome-assembly.github.io/about/
-  - title: "How to log in"
-    url: https://eukaryotic-genome-assembly.github.io/logging_on/
 
 pages:
-  - title: "Unix Tutorial"
+  - title: "Special Topic Network Details"
     children:
       - title: "- Basic concepts"
         url: /linux_basics/  
-      - title: "- Navigating the system"
-        url: /linux_navigation/
-      - title: "- Manipulating files"
-        url: /linux_file_manipulation/
-      - title: "- Text editor: nano"  
-        url: /nano/        
-      - title: "- Wildcards and pattern search"  
-        url: /linux_pattern_searching/
-      - title: "- Piping and redirection" 
-        url: /linux_pipe/
-      - title: "- Other things you should know"  
-        url: /linux_other_things/
-      - title: "- Fasta and Fastq sequences"
-        url: /fasta_fastq/  
   
-  - title: "Setting up the environment"
+  - title: "1st Meeting of the STN Porto 2026"
     children:
       - title: "- Installing IGV"
         url: /igv_installation/ 
-      - title: "- Installing PretextView" 
-        url: /pretextView_installation/
-        
-  - title: "Hands On"
+
+  - title: "Structural Variation Tutorials"
     children:
-      - title: "Part 1 - Kmer analysis"
-        url: /handsOn_1/
-      - title: "Part 1 - Plot Reads Length"
-        url: /handsOn_plotReadLength/        
-      - title: "Part 2 - Genome Assembly"
-        url: /handsOn_2/
-      - title: "Extra - BLAST"
-        url: /handsOn_3/
-      - title: "Extra - Mapping"
-        url: /handsOn_4/
-      - title: "Part 3 - Purging and Merqury"
-        url: /handsOn_merqury1/
-      - title: "Part 3.2 - Purging and Merqury drUrtUren1"
-        url: /handsOn_purging2/
-      - title: "Part 4 - SALSA2 scaffolding"
-        url: /salsa/
-      - title: "Part 5 - Mis-assembly evaluation"
-        url: /miss-assembly/
-      - title: "Part 6 - Curated assembly and final report"
-        url: /curated/ 
-      - title: "Part 7 - Polishing CLR"
-        url: /polishing/
-      - title: "Part 8 - MitoHifi"
-        url: /mitohifi/
-  
-  - title: "References"
-    children:
-      - title: "Papers"
-        url: /further_reading/     
-   
+      - title: "- Installing IGV"
+        url: /igv_installation/ 
+    
