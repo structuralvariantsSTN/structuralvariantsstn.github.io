@@ -16,6 +16,7 @@ pages:
         url: /contact/ 
       - title: " - Members"
         url: /committee/
+        
   - title: "Seminars"
     children:
       - title: " - Seminar Series "
@@ -31,9 +32,5 @@ pages:
       - title: " - Tutorial 1"
         url: /SV_tutorial/ 
       - title: " - Tutorial 2"
-        url: /SV_tutorial/
-      - title: " - Tutorial 3"
-        url: /SV_tutorial/
-      - title: " - Tutorial 4"
         url: /SV_tutorial/
     
