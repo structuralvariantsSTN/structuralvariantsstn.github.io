@@ -4,7 +4,9 @@ layout: archive
 permalink: /committee/
 ---  
 
-STRiVE is structured in several working groups addressing the different objectives of the network. Each member contributes to one or several of them, favouring the dynamism of our community. If you want to join the STN as a contributor, please use this link and indicate the working group you would be interested in joining (or additional initiative you would like to suggest). [link coming soon](https://structuralvariantsstn.github.io/). If you just want to be informed of our activities you may also sign up for the info mailing list [link coming soon](https://structuralvariantsstn.github.io/).
+STRiVE is structured in several working groups addressing the different objectives of the network. Each member contributes to one or several of them, favouring the dynamism of our community. If you want to join the STN as a contributor, please use this link and indicate the working group you would be interested in joining (or additional initiative you would like to suggest) [link coming soon](https://structuralvariantsstn.github.io/). 
+
+If you just want to be informed of our activities you may also sign up for the info mailing list [link coming soon](https://structuralvariantsstn.github.io/).
 
 ### Management committee 
 The committee handles administrative and funding aspects of the network:
