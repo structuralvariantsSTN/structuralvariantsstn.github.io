@@ -28,6 +28,8 @@ pages:
         url: /porto_about/ 
       - title: " - Program"
         url: /porto_program/ 
+      - title: " - Registration"
+        url: /porto_registration/ 
 
   - title: "Tutorials"
     children:
