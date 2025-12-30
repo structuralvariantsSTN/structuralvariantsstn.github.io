@@ -21,10 +21,10 @@ pages:
       - title: " - Seminar Series "
         url: /seminars/ 
   
-  - title: "Porto 2026 Meeting"
+  - title: "TiBE-STRiVE - Porto 2026 Meeting"
     children:
-      - title: " - Porto Meeting Details"
-        url: /porto/ 
+      - title: " - About the meeting"
+        url: /porto_about/ 
 
   - title: "Tutorials"
     children:
