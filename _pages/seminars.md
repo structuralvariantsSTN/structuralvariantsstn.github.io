@@ -14,4 +14,5 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 ### Next seminars 
 29/04/2026:
+
 27/05/2026:
