@@ -33,6 +33,8 @@ pages:
 
   - title: "Workshops"
     children:
+      - title: " - Training"
+        url: /training/
       - title: " - Tutorial 1"
         url: /SV_tutorial/ 
       - title: " - Tutorial 2"
