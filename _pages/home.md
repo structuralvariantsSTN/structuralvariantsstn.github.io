@@ -19,7 +19,9 @@ Learn more about the conference [HERE](https://structuralvariantsstn.github.io/p
 <br>
 <b>Contribute to the open special issue in JEB</b>
 
-We have the pleasure to be associated with the Journal of Evolutionary Biology (JEB) published by ESEB,  editing a special issue about “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026. Please contact [Marcial Escudero](https://marcialescuderolab.weebly.com/) if you are interested in contributing.
+We have the pleasure to be associated with the Journal of Evolutionary Biology (JEB) published by ESEB,  editing a special issue about “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026. 
+
+Please contact [Marcial Escudero](https://marcialescuderolab.weebly.com/) if you are interested in contributing.
 
 <br>
 <b>Online seminar series launching soon</b>
