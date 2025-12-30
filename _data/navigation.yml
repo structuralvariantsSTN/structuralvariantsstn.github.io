@@ -7,15 +7,15 @@ main:
 
 pages:
   - title: "STN Details"
-    children:
-      - title: " - Committee"
-        url: /committee/  
+    children:  
       - title: " - About STRiVE"
         url: /about/  
       - title: " - Ongoing activities"
         url: /activities/ 
       - title: " - Contact/join us"
         url: /contact/ 
+      - title: " - Members"
+        url: /committee/
   - title: "Seminars"
     children:
       - title: " - Seminar Series "
