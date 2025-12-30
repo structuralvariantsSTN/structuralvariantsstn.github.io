@@ -1,5 +1,5 @@
 ---
-title: "STN Seminars"
+title: "STN seminars"
 layout: archive
 permalink: /seminars/
 ---  
