@@ -10,10 +10,8 @@ pages:
     children:
       - title: " - Committee"
         url: /committee/  
-      - title: " - Aims"
-        url: /aims/  
-      - title: " - Plans"
-        url: /plans/ 
+      - title: " - About STRiVE"
+        url: /about/  
   - title: "Seminars"
     children:
       - title: " - Seminar Series "
