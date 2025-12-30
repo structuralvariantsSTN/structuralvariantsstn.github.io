@@ -12,6 +12,8 @@ pages:
         url: /committee/  
       - title: " - About STRiVE"
         url: /about/  
+      - title: " - Ongoing activities"
+        url: /activities/ 
   - title: "Seminars"
     children:
       - title: " - Seminar Series "
