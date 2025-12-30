@@ -31,7 +31,7 @@ pages:
       - title: " - Registration"
         url: /porto_registration/ 
 
-  - title: "Tutorials"
+  - title: "Workshops"
     children:
       - title: " - Tutorial 1"
         url: /SV_tutorial/ 
