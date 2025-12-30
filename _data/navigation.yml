@@ -14,6 +14,8 @@ pages:
         url: /about/  
       - title: " - Ongoing activities"
         url: /activities/ 
+      - title: " - Contact/join us"
+        url: /contact/ 
   - title: "Seminars"
     children:
       - title: " - Seminar Series "
