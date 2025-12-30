@@ -36,7 +36,7 @@ Marcial Escudero (lead) - Kay Lucek - Petr Nguyen - Claire Mérot - Aurora Ruiz-
 ### WG JEB Review
 A group-written review is foreseen for 2027. This group is leading this initiative:
 
-Marta Farré - Marius Roesti - Maren Wellenreuther - Zach Gompert - Alexander Suh - Jenn Coughlan - Katarina Stuart - Benjamin Dauphin - Aurora Ruiz-Herrera - Greg Owens - Marina Rafajlovic - Petr Nguyen - Rui Faria - REbekah Oomen - Anna Tigano - Marcial Escudero
+Marta Farré - Marius Roesti - Maren Wellenreuther - Zach Gompert - Alexander Suh - Jenn Coughlan - Katarina Stuart - Benjamin Dauphin - Aurora Ruiz-Herrera - Greg Owens - Marina Rafajlovic - Petr Nguyen - Rui Faria - Rebekah Oomen - Anna Tigano - Marcial Escudero
 
 ### WG Methods workshops
 Several methodological workshops are foreseen for 2027 and later about diverse technical issues with SVs (detection, characterisation, analysis, with different types of data such as short-reads, long-reads, pangenomes, etc). [link coming soon](https://structuralvariantsstn.github.io/) 
