@@ -21,5 +21,22 @@ Learn more about the conference [HERE](https://structuralvariantsstn.github.io/p
 
 We have the pleasure to be associated with the Journal of Evolutionary Biology (JEB) published by ESEB,  editing a special issue about “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026. Please contact [Marcial Escudero](https://marcialescuderolab.weebly.com/) if you are interested in contributing.
 
+<br>
+<b>Online seminar series launching soon</b>
+
+Stay tuned for our upcoming online [seminar series](https://structuralvariantsstn.github.io/seminars/) focusing on structural variants in evolution! These seminars will showcase diverse approaches — from pangenome analyses and experimental studies to theoretical modelling — creating unique opportunities for cross-disciplinary exchange and interactions.
+
+Missed a seminar? No problem - you can find them on our [YouTube channel](https://www.youtube.com/@structuralvariantsSTN).
+
+<br>
+<b>How to take part in STRiVE?</b>
+Join us to explore how structural variants drive adaptation, speciation, and genome evolution across taxa. Most activities are open to all network members and interested ESEB participants. 
+
+You can sign up for the mailing list here:
+COMING SOON
+
+If you want to get involved in the network, please apply through this link:
+COMING SOON
+
 
 
