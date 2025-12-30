@@ -26,6 +26,8 @@ pages:
     children:
       - title: " - About the meeting"
         url: /porto_about/ 
+      - title: " - Program"
+        url: /porto_program/ 
 
   - title: "Tutorials"
     children:
