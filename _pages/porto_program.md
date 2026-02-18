@@ -4,7 +4,7 @@ layout: archive
 permalink: /porto_program/
 ---  
 
-Invited speakers: Mark Kirkpatrick & Joana Meier
+Invited speakers: [Mark Kirkpatrick](https://kirkpatricklab.org/) & [Joana Meier](https://www.sanger.ac.uk/group/meier-group/)
 
 ### July 7th (late afternoon/evening): 
 Registration & welcome cocktail
