@@ -5,23 +5,23 @@ permalink: /activities/
 ---  
 
 ### Kick-off conference | Porto, Portugal (8–10 July 2026)
-Our inaugural meeting will bring together ~100 researchers working on structural variant research across animals, plants, fungi, and diverse evolutionary scales. The goal is not just to present results, but to initiate collaborations and align research directions.
+Our inaugural meeting will bring together ~100 researchers working on structural variant research across animals, plants, fungi, and diverse evolutionary scales. The goal is not just to present results, but to initiate collaborations and align research directions. We aim to frame the main research questions we would like to tackle by the network.  
 
-[Learn more about the Porto conference](https://structuralvariantsstn.github.io/porto/)
+[Learn more about the Porto conference](https://structuralvariantsstn.github.io/porto_about/)  
 
 ### Special Issue in the Journal of Evolutionary Biology
-We are editing a JEB special issue titled “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026.
+We are editing a JEB special issue titled “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026.  
 
-[JEB special issue page]()
+Find out more information about the special issue [HERE](https://academic.oup.com/jeb/pages/call-for-papers-genome-architecture-and-evolution-how-structural-and-genetic-variation-shapes-biodiversity?login=false)  
 
 ### Online seminar series (launching soon)
 A regular seminar series highlighting empirical, theoretical, and methodological advances in structural variation research, designed to foster genuine cross-disciplinary dialogue rather than parallel monologues. 
 
-[Learn more about the seminar](https://structuralvariantsstn.github.io/seminars/)
+[Learn more about the seminar](https://structuralvariantsstn.github.io/seminars/)  
 
-[Catch up on our youtube channel](https://www.youtube.com/@structuralvariantsSTN )
+[Catch up on our youtube channel](https://www.youtube.com/@structuralvariantsSTN )  
 
 ### Targeted hands-on training (to come in 2026/2027)
-We aim to develop tutorials and training dedicated to the analysis of SVs in evolutionary biology and delivered online and in-person during short workshops. 
+We aim to develop tutorials and training dedicated to the analysis of SVs in evolutionary biology and delivered online and in-person during short workshops.  
 
 [More information coming soon](https://structuralvariantsstn.github.io/SV_tutorial/)
