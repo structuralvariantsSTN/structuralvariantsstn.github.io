@@ -4,8 +4,12 @@ layout: archive
 permalink: /contact/
 ---  
 
-Sign up for our mailing list to stay in touch
-[LINK COMING SOON](https://structuralvariantsstn.github.io/)
+You can sign up for the mailing list [HERE](https://groupes.renater.fr/sympa/subscribe/stnstrive)  
 
-Join our network as a contributor to one of the working groups 
-[LINK COMING SOON](https://structuralvariantsstn.github.io/)
+You will be asked to fill your email address and your name (apologies if the form is partly in French, partly in English), and to click on “Confirm”. Then you will shortly receive an email with a link to validate your email address. If you need to unsubscribe, please follow the same procedure but use [this link](https://groupes.renater.fr/sympa/signoff/stnstrive)  
+
+
+If you want to get involved in the network, please apply [HERE]([https://forms.gle/h9re5jrpxdK8KuAn7)  
+
+For any other queries, please use the contact form [HERE](https://forms.gle/EUfg8YZq1doWtV6s7)  
+
