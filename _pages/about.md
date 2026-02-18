@@ -15,7 +15,7 @@ Structural variants, such as inversions, duplications, transposable elements, an
 By connecting researchers working on diverse classes of structural variants and across a wide range of taxa, the STRiVE ESEB Special Topic Network aims to identify general principles governing how structural genomic variation originates, persists, and shapes biodiversity across the Tree of Life.  
 
 <p style="text-align: center;">
-  <img src="/images/other/logo.png" alt="ESEB Logo" style="max-width: 100%; height: auto;">
+  <img src="/images/other/image3.png" alt="STRIVE LOGO" style="max-width: 100%; height: auto;">
 </p>
 
 ### Our objectives
