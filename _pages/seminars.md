@@ -13,6 +13,6 @@ We aim to highlight:
 Talks will be on the last Wednesday of each month, starting in April 2026 (except for  summer/winter breaks). We plan to alternate between times convenient for different time zones. Talks and questions will be recorded and posted on our [YouTube channel](https://www.youtube.com/@structuralvariantsSTN).
 
 ### Next seminars 
-29/04/2026:
+29/04/2026 6 pm CET/9 am PST: Loren Rieseberg.  
+27/05/2026 3 pm CET: TBD
 
-27/05/2026:
