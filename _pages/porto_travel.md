@@ -15,7 +15,7 @@ Metro timetables will be available here closer to the event.
 From Porto Airport, take Metro Line E (purple line) and get off at the station "Verdes”. From there, transfer to Line B (red line), toward "Póvoa de Varzim” and exit at "Vila do Conde” station.
 
 <p style="text-align: center;">
-  <img src="/images/other/metro_map.png" alt="metro map" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="/images/other/metro_image.png" alt="metro map" style="width: 250px; height: 250px; object-fit: cover;">
 </p> 
 
 <b>By Car</b>  
