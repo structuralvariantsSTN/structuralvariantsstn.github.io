@@ -1,5 +1,5 @@
 ---
-title: "Registration"
+title: "Travel and Accommodation"
 layout: archive
 permalink: /porto_travel/
 ---  
