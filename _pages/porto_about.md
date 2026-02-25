@@ -30,13 +30,13 @@ Registration will open on February 25th for members of the network and in the 16
 
 Mark Kirkpatrick, [The University of Texas at Austin] (https://integrativebio.utexas.edu/directory/mark-kirkpatrick), USA 
 <p style="text-align: center;">
-  <img src="/images/other/mark_kirkpatrick.jpeg" alt="Photo of Mark" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/mark_kirkpatrick.jpg" alt="Photo of Mark" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 
 Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/meier-joana/) and [University of Cambridge](https://www.zoo.cam.ac.uk/directory/joana-meier), UK
 <p style="text-align: center;">
-  <img src="/images/other/joana_meier.jpeg" alt="Photo of Joana" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/joana_meier.jpg" alt="Photo of Joana" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 ### Venue
@@ -45,22 +45,22 @@ Quinta do Crasto, an old farm and agricultural museum recently converted into a 
 
 View of Vila do Conde:  
 <p style="text-align: center;">
-  <img src="/images/other/venue1.1.jpeg" alt="Photo of venue 1" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/venue1.2.jpeg" alt="Photo of venue 2" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 The municipality where the venue is located and of Porto: 
 <p style="text-align: center;">
-  <img src="/images/other/venue2.1.jpeg" alt="Photo of venue 3" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 <p style="text-align: center;">
-  <img src="/images/other/venue2.2.jpeg" alt="Photo of venue 4" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 <p style="text-align: center;">
-  <img src="/images/other/venue2.3.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 ### Main Organization  
@@ -85,29 +85,29 @@ Looking forward to seeing you in Portugal!
 
 ### Funding and Support
 <p style="text-align: center;">
-  <img src="/images/other/funding_biopolis.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_cibio.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_eseb.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_strive.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_uporto.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_vila.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 <p style="text-align: center;">
-  <img src="/images/other/funding_flad.jpeg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
