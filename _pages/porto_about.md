@@ -64,7 +64,7 @@ The municipality where the venue is located and of Porto:
 </p>
 
 ### Main Organization  
-Rui Faria, Aurora Ruiz Herrera, Marina Rafajlovic, Marius Roesti Petr Neguyen, Kay Lucek, Maren Wellenreuther, Jenn Coughlan, Zach Gompert, Claire Merot, Benjamin Dauphin
+Rui Faria, Aurora Ruiz Herrera, Marina Rafajlovic, Marius Roesti, Petr Neguyen, Kay Lucek, Maren Wellenreuther, Jenn Coughlan, Zach Gompert, Claire Merot, Benjamin Dauphin
 
 ### Local Organizing Committee  
 Rui Faria (CIBIO, U. Porto)  
