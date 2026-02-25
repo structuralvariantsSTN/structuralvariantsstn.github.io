@@ -10,9 +10,8 @@ Registration and abstract submission open on the 25th of February and closes on 
 
 Registration and abstract submission will occur in two stages:
 
-•	Until the 15th of March 2026, for STRiVE members - [see here how to become member](https://structuralvariantsstn.github.io/committee/)
-
-•	From the 16th of March until the 7th of April 2026, for everyone else
+•	STAGE 1: Until the 15th of March 2026, for STRiVE members - [see here how to become member](https://structuralvariantsstn.github.io/committee/)
+•	STAGE 2: From the 16th of March until the 7th of April 2026, for everyone else
 
 <b>A limited number of places and talks are available.  
 Registration and talks are granted on a first-come, first-served basis.</b>
