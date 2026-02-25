@@ -9,7 +9,7 @@ permalink: /porto_about/
 Conference on the evolutionary role of structural variation
 
 <p style="text-align: center;">
-  <img src="/images/other/Strive_Logo.png" alt="conference logo" style="width: 350px; height: 250px; object-fit: cover;">
+  <img src="/images/other/Strive_Logo_background.png" alt="TIBE STRIVE LOGO" style="max-width: 100%; max-height: 350px; height: auto;">
 </p>
 
 ### Save the date: 8th - 10th of July 2026, Vila do Conde, Portugal
