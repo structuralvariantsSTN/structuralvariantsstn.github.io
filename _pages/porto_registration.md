@@ -21,6 +21,7 @@ Registration and talks are granted on a first-come, first-served basis.</b>
 STRiVE members:  
 - €40 Students and Postdocs  
 - €100 Others  
+
 Non-STRiVE members:  
 - €80 Students  
 - €200 Others  
