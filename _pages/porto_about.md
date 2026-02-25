@@ -8,6 +8,10 @@ permalink: /porto_about/
 
 Conference on the evolutionary role of structural variation
 
+<p style="text-align: center;">
+  <img src="/images/other/Strive_Logo.png" alt="conference logo" style="width: 350px; height: 250px; object-fit: cover;">
+</p>
+
 ### Save the date: 8th - 10th of July 2026, Vila do Conde, Portugal
 
 We are excited to announce our inaugural conference at CIBIO-BIOPOLIS in Vila do Conde (near Porto), Portugal (8th to 10th of July 2026), bringing together researchers to launch the Special Topic Network STRiVE.
@@ -78,14 +82,14 @@ Looking forward to seeing you in Portugal!
 ### Funding and Support
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-    <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_biopolis.jpg" alt="Photo of funder 1" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_cibio.png" alt="Photo of funder 2" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_eseb.png" alt="Photo of funder 3" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_strive.png" alt="Photo of funder 4" style="width: 25%; max-height: 150px; object-fit: contain;">
   </div>
   <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-    <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_uporto.png" alt="Photo of funder 5" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_vila.png" alt="Photo of funder 6" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_flad.png" alt="Photo of funder 7" style="width: 33%; max-height: 150px; object-fit: contain;">
   </div>
 </div>
