@@ -29,7 +29,7 @@ Registration is free for student and researchers affiliated with CIBIO- BIOPOLIS
 
 Registration fees include lunches, coffee breaks, welcome reception, shuttle and transport to Porto in the last day for a visit in the city.
 
-### Mini Plenaries
+## Mini Plenaries
 We intend to host two mini-plenaries given by ERC researchers (graduate students and postdocs).   
 These would be slightly longer talks (~30 minutes) with the aim of promoting more complete work from our junior colleagues.   
 Opportunity to apply for these can be found in the [form](https://forms.gle/nLaS6YBafH71yw1x5).  
