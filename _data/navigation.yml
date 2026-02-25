@@ -29,7 +29,9 @@ pages:
       - title: " - Program"
         url: /porto_program/ 
       - title: " - Registration"
-        url: /porto_registration/ 
+        url: /porto_registration/
+      - title: " - Travel and accommodation"
+        url: /porto_travel/
 
   - title: "Workshops"
     children:
