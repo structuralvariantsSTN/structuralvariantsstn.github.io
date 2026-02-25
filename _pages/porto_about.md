@@ -28,15 +28,14 @@ Registration will open on February 25th for members of the network and in the 16
 
 ### Invited Speakers
 
-Mark Kirkpatrick, [The University of Texas at Austin] (https://integrativebio.utexas.edu/directory/mark-kirkpatrick), USA 
+Mark Kirkpatrick, [The University of Texas at Austin](https://integrativebio.utexas.edu/directory/mark-kirkpatrick), USA 
 <p style="text-align: center;">
-  <img src="/images/other/mark_kirkpatrick.jpg" alt="Photo of Mark" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
+  <img src="/images/other/mark_kirkpatrick.jpg" alt="Photo of Mark" style="width: 250px; height: 250px; object-fit: cover;">
+</p>  
 
 Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/meier-joana/) and [University of Cambridge](https://www.zoo.cam.ac.uk/directory/joana-meier), UK
 <p style="text-align: center;">
-  <img src="/images/other/joana_meier.jpg" alt="Photo of Joana" style="max-width: 100%; max-height: 350px; height: auto;">
+  <img src="/images/other/joana_meier.jpg" alt="Photo of Joana" style="width: 250px; height: 250px; object-fit: cover;">
 </p>
 
 ### Venue
@@ -44,24 +43,17 @@ Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/mei
 Quinta do Crasto, an old farm and agricultural museum recently converted into a Biodiversity research laboratory: CIBIO- Associação BIOPOLIS, University of Porto, Portugal.  
 
 View of Vila do Conde:  
-<p style="text-align: center;">
-  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="height: 350px; width: auto; object-fit: cover;">
+  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="height: 350px; width: auto; object-fit: cover;">
+</div>
 
 The municipality where the venue is located and of Porto: 
-<p style="text-align: center;">
-  <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-<p style="text-align: center;">
-  <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-<p style="text-align: center;">
-  <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="height: 350px; width: auto; object-fit: cover;">
+  <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="height: 350px; width: auto; object-fit: cover;">
+  <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="height: 350px; width: auto; object-fit: cover;">
+</div>
 
 ### Main Organization  
 Rui Faria, Aurora Ruiz Herrera, Marina Rafajlovic, Marius Roesti, Petr Neguyen, Kay Lucek, Maren Wellenreuther, Jenn Coughlan, Zach Gompert, Claire Merot, Benjamin Dauphin
@@ -84,30 +76,16 @@ Scientific inquiries: ruifaria@cibio.up.pt
 Looking forward to seeing you in Portugal!  
 
 ### Funding and Support
-<p style="text-align: center;">
-  <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
-
-<p style="text-align: center;">
-  <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="max-width: 100%; max-height: 350px; height: auto;">
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+    <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+    <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+    <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+    <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+    <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+  </div>
+</div>
