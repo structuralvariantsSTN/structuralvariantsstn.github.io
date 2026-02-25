@@ -43,16 +43,16 @@ Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/mei
 Quinta do Crasto, an old farm and agricultural museum recently converted into a Biodiversity research laboratory: CIBIO- Associação BIOPOLIS, University of Porto, Portugal.  
 
 View of Vila do Conde:  
-<div style="display: flex; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="height: 350px; width: auto; object-fit: cover;">
-  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="height: 350px; width: auto; object-fit: cover;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="width: 50%; max-height: 350px; object-fit: cover;">
+  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="width: 50%; max-height: 350px; object-fit: cover;">
 </div>
 
 The municipality where the venue is located and of Porto: 
-<div style="display: flex; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-  <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="height: 350px; width: auto; object-fit: cover;">
-  <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="height: 350px; width: auto; object-fit: cover;">
-  <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="height: 350px; width: auto; object-fit: cover;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="width: 33%; max-height: 350px; object-fit: cover;">
+  <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="width: 33%; max-height: 350px; object-fit: cover;">
+  <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="width: 33%; max-height: 350px; object-fit: cover;">
 </div>
 
 ### Main Organization  
@@ -76,16 +76,16 @@ Scientific inquiries: ruifaria@cibio.up.pt
 Looking forward to seeing you in Portugal!  
 
 ### Funding and Support
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
-    <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
-    <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
-    <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="/images/other/funding_biopolis.jpg" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_cibio.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_eseb.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_strive.png" alt="Photo of venue 5" style="width: 25%; max-height: 150px; object-fit: contain;">
   </div>
-  <div style="display: flex; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-    <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
-    <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
-    <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="height: 150px; width: auto; object-fit: cover;">
+  <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="/images/other/funding_uporto.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_vila.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_flad.png" alt="Photo of venue 5" style="width: 33%; max-height: 150px; object-fit: contain;">
   </div>
 </div>
