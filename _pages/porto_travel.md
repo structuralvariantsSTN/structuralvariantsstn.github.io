@@ -1,4 +1,4 @@
-<img width="468" height="159" alt="image" src="https://github.com/user-attachments/assets/5de856db-1b11-4c41-97f5-632834ca7643" />---
+---
 title: "Registration"
 layout: archive
 permalink: /porto_travel/
