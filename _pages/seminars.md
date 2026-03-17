@@ -16,6 +16,5 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 ### Next seminars 
 29/04/2026 6 pm CET/9 am PST: Loren Rieseberg   
-27/05/2026 3 pm CET: TBD  
 03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno  
 
