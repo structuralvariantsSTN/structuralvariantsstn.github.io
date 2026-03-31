@@ -84,6 +84,12 @@ Scientific inquiries: ruifaria@cibio.up.pt
 Looking forward to seeing you in Portugal!  
 
 ### Funding and Support
+This event has received support from the Regional NORTE 2030 Program via the project NORTE2030-FEDER-02130700: [https://www.norte2030.pt/norte2030_barracofinanciamento/](https://www.norte2030.pt/norte2030_barracofinanciamento/)  
+UID/50027/2025: Rede de Investigação em Biodiversidade e Biologia Evolutiva
+LA/P/0048/2020: [https://www.fct.pt/media/media-e-identidade-de-marca/](https://www.fct.pt/media/media-e-identidade-de-marca/)  
+ 
+Initiative supported by the European Union’s Horizon 2020 Research and Innovation Programme under the Grant Agreement Number 857251.  
+  
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
     <img src="/images/other/funding_biopolis.jpg" alt="Photo of funder 1" style="width: 25%; max-height: 150px; object-fit: contain;">
