@@ -22,10 +22,14 @@ Registration opened in February 25th for members of the network and in the 30th 
 
 ### Important Dates  
 <b>Meeting dates:</b> 8th to 10th of July 2026  
-<b>Registration and abstract submission deadlines:</b>  
-•	15th of March 2026, for STRiVE members (see [here](https://structuralvariantsstn.github.io/contact/) how to become member)  
-•	7th of April 2026, for everyone else  
-<b>Notification of registration and abstract acceptance:</b> 15th of April 2026  
+<b>Abstract submission deadline (for all participants)</b>:  
+• 15th of April 2026  
+<b>Registration deadline (for all participants))</b>:   
+• 30th of April 2026  
+<b>Notification of abstract acceptance: 20th of April 2026</b>  
+<b>Notification of registration acceptance: 30th of April 2026</b>  
+A limited number of places and talks are available. Registration and talks are granted on a first-come, first-served basis.
+
 
 <b>A limited number of places and talks are available. Registration and talks are granted on a first-come, first-served basis.</b>
 
