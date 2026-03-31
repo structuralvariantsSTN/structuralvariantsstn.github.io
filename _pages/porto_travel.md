@@ -31,7 +31,22 @@ Some hotels available in Vila do Conde that we recommend:
 [B&B Hotels](https://www.hotel-bb.com/pt/hotel/vila-do-conde?gad_source=1&gad_campaignid=20399596246&gbraid=0AAAAABHwVHgdHzDQ2e9Zs3dLMgeNq5hiF&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3BivvCP1Bbh8OW1-aovhkMHWZL46PChqAnFqpB1XTF3LFzYVIKRmvgaAjrkEALw_wcB)   
 [A Rendilheira](https://www.guestreservations.com/a-rendilheira-boutique-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006003&gad_source=1&gad_campaignid=991006003&gbraid=0AAAAADiMQMboiym1YINrscfN3px2a6DIZ&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3B4x8-2kg1jV50u3ZBItHWOrtoSctglxT_1M6qseqZYqZWbmYJ5mygaAgmBEALw_wcB)   
 
-We are trying to negotiate special prices for the conference attendees. Stay tuned for additional information
+TiBE-STRiVE participants have discounts in the following hotels: 
+
+1. [Hotel Brazao](https://www.hotelbrazao.pt/) 
+Prince per night/room, including breakfast and taxes:  
+- Single – 65,00€  
+- Double (1pax) – 73,00€  
+- Double/Twin beds (2pax) – 82,00€  
+- Suite Double/Twin bads (2pax) – 102,00€  
+When doing the reservation specify that you are a participant of TIBE 2026.  
+
+2. [B&B Hotels](https://www.hotel-bb.com/pt/hotel/vila-do-conde?gad_source=1&gad_campaignid=20399596246&gbraid=0AAAAABHwVHgdHzDQ2e9Zs3dLMgeNq5hiF&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3BivvCP1Bbh8OW1-aovhkMHWZL46PChqAnFqpB1XTF3LFzYVIKRmvgaAjrkEALw_wcB)
+There is a 10% discount on the reimbursable price, if you use the code BIOPOLIS10.  
+To benefit from this, please send an e-mail to this address: hotel.viladoconde@hotelbb.com mentioning the code above.  
+
+3. [Villa C Boutique Hotel](https://www.guestreservations.com/villa-c-hotel-and-spa/booking)  
+While booking online use the code "TIBE2026" in the field PROMOS and this is how it will look. Chose the price TiBE 2026. 
 
 <b>Transport from Vila do Conde to the conference Venue in the conference days</b>  
 
