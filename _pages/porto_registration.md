@@ -6,15 +6,13 @@ permalink: /porto_registration/
 
 ## Registration and Abstract Submission
 
-Registration and abstract submission open on the 25th of February and closes on the 7th of April 2026. Please, use [this form](https://forms.gle/SZzR17zFevFwhNwA9) for registration.
+Registration opened on the 25th of February and closes on the 30th of April 2026. Please, use [this form](forms.gle/SZzR17zFevFwhNwA9) for registration.  
 
-Registration and abstract submission will occur in two stages:
+<b>Abstract submission closes on the 15th of April 2026.</b>  
 
-•	STAGE 1: Until the 15th of March 2026, for STRiVE members - [see here how to become member](https://structuralvariantsstn.github.io/committee/)
-•	STAGE 2: From the 16th of March until the 7th of April 2026, for everyone else
+A limited number of places and talks are available.  
 
-<b>A limited number of places and talks are available.  
-Registration and talks are granted on a first-come, first-served basis.</b>
+Registration and talks are granted on a first-come, first-served basis.  
 
 ## Fees  
 STRiVE members:  
