@@ -18,7 +18,7 @@ We are excited to announce our inaugural conference at CIBIO-BIOPOLIS in Vila do
 
 This event named “Trends in Biodiversity and Evolution: the evolutionary role of structural genomic variation (TiBE-STRiVE)” will feature cutting-edge science, foster interdisciplinary discussions, and initiate collaborative projects spanning the breadth of structural variant research.
 
-Registration will open on February 25th for members of the network and in the 16th of March for non-members. For registration and abstract submission, please fill this [online form](https://forms.gle/PJ4KQgYcR6K2fsdt7)
+Registration opened in February 25th for members of the network and in the 30th of April for non-members. For registration and abstract submission, please fill [this online form](https://forms.gle/PJ4KQgYcR6K2fsdt7)
 
 ### Important Dates  
 <b>Meeting dates:</b> 8th to 10th of July 2026  
