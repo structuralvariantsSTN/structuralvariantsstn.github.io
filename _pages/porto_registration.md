@@ -32,4 +32,4 @@ We intend to host two mini-plenaries given by ERC researchers (graduate students
 These would be slightly longer talks (~30 minutes) with the aim of promoting more complete work from our junior colleagues.   
 Opportunity to apply for these can be found in the [form](https://forms.gle/nLaS6YBafH71yw1x5).  
 
-<b>Notification of acceptance of registration and abstract will be sent until the 15th of April 2026.</b>  
+<b>Notification of acceptance of registration and abstract will be sent until the 20th of April 2026.</b>  
