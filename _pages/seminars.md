@@ -18,3 +18,5 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 29/04/2026 6 pm CET/9 am PST: Loren Rieseberg   
 03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno  
 
+https://github.com/structuralvariantsSTN/structuralvariantsstn.github.io/blob/master/images/Rieseberg_april2026_seminar_poster_STRiVE.pdf
+
