@@ -19,6 +19,5 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/Rieseberg_april2026_seminar_poster_STRiVE.pdf" alt="Rieseberg_poster" style="width: 50%; max-height: 350px; object-fit: cover;">
-  
-
+  <img src="/images/other/Rieseberg_april2026_seminar_poster_STRiVE-1.png" alt="Rieseberg_poster" style="width: 50%; max-height: 350px; object-fit: cover;">
+ 
