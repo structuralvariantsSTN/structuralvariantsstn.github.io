@@ -6,7 +6,7 @@ permalink: /porto_registration/
 
 ## Registration and Abstract Submission
 
-Registration opened on the 25th of February and closes on the 30th of April 2026. Please, use [this form](forms.gle/SZzR17zFevFwhNwA9) for registration.  
+Registration opened on the 25th of February and closes on the 30th of April 2026. Please, use [this form](https://forms.gle/nLaS6YBafH71yw1x5) for registration.  
 
 <b>Abstract submission closes on the 15th of April 2026.</b>  
 
