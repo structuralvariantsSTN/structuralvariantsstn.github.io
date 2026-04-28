@@ -43,12 +43,12 @@ Several methodological workshops are foreseen for 2027 and later about diverse t
 
 This group is preparing thse workshops:
 
-<i>Marta Farré - Benjamin Dauphin - Claire Mérot - Clément Goubert - Zach Gompert - Paul Battlay - Petr Nguyen - Filip Kolar - Alexander Suh</i>
+<i>Marta Farré - Benjamin Dauphin - Claire Mérot - Clément Goubert - Zach Gompert - Paul Battlay - Petr Nguyen - Filip Kolar - Alexander Suh - Katarina Stuart </i>
 
 ### WG Comparative analysis
 This group aims to join datasets and analyses towards a broader-scale understanding of SVs in evolution:
 
-<i>Paul Battlay (lead for RepAdapt) - Marta Farré - Benjamin Dauphin - Claire Mérot - Marcial Escudero - Zach Gompert - Petr Nguyen - Filip Kolar - Alexander Suh - Maren Wellenreuther - Anna Tigano - Rui Faria - Rebekah Oomen - Aurora Ruiz-Herrera</i>
+<i>Paul Battlay (lead for RepAdapt) - Marta Farré - Benjamin Dauphin - Claire Mérot - Marcial Escudero - Zach Gompert - Petr Nguyen - Filip Kolar - Alexander Suh - Maren Wellenreuther - Anna Tigano - Rui Faria - Rebekah Oomen - Aurora Ruiz-Herrera  - Katarina Stuart </i>
 
 ### All Members
 <i>Full member list coming soon</i>
