@@ -16,7 +16,9 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 ### Next seminars 
 03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno 
+
 30/09/2026: Evan Eichler
+
 28/10/2026: Nina Therkildsen
 
 ### Past seminars 
