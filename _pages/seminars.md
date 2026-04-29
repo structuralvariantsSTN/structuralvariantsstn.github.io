@@ -21,5 +21,5 @@ https://gu-se.zoom.us/j/62838109914
 03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno  
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/other/Rieseberg_april2026_seminar_poster_STRiVE-1.png" alt="Rieseberg_poster" style="width: 50%; max-height: 350px; object-fit: cover;">
+  <img src="/images/other/Rieseberg_april2026_seminar_poster_STRiVE-1.png" alt="Rieseberg_poster" style="width: 75%; max-height: 350px; object-fit: cover;">
  
