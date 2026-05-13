@@ -13,7 +13,9 @@ Welcome to the [ESEB](https://eseb.org/) Special Topic Network on the evolutiona
 
 We are excited to announce our inaugural conference near Porto, Portugal (8th to 10th of July 2026), bringing together researchers to launch this Special Topic Network. This event will feature cutting-edge research presentations, foster interdisciplinary discussions, and initiate collaborative projects spanning the breadth of structural variant research. Connect with colleagues working on inversions, transposable elements, duplications, chromosomal rearrangements, 3D genomics and more, across animals, plants, fungi, and diverse evolutionary scales
 
-<b>There are still some places for [registration](https://forms.gle/PJ4KQgYcR6K2fsdt7) available. You can benefit from support if you are joining us from an underrepresented country and for childcare!<b>
+<b>There are still some places for [registration](https://forms.gle/PJ4KQgYcR6K2fsdt7) available.  
+
+You can benefit from support if you are joining us from an underrepresented country and for childcare!<b>
 
 Learn more about the conference [HERE](https://structuralvariantsstn.github.io/porto_about/)
 
