@@ -7,7 +7,7 @@ permalink: /porto_travel/
 ## How to get to Vila do Conde
 
 <b>By Metro – from Porto</b>  
-Porto has a direct metro connection to Vila do Conde. Take Line B (red line) toward Póvoa de Varzim. Get off at "Vila do Conde” station, which is a 17-minute walk (1.3 km) from the conference venue. Tickets can be purchased at any station and must be validated before boarding.
+Porto has a direct metro connection to Vila do Conde. Take Line B (red line) toward Póvoa de Varzim. Get off at “Vila do Conde” station, and you will be less than 1Km from the town centre where most hotels are placed. There will be a shuttle (bus) to take people from the centre to the venue and back everyday. Metro tickets can be purchased at any station and must be validated before boarding.  
 
 Metro timetables will be available here closer to the event.  
 
