@@ -10,7 +10,7 @@ Registration opened on the 25th of February and closes on the 30th of April 2026
 
 <b>Abstract submission closes on the 15th of April 2026.</b>  
 
-<b>A limited number of places and talks are available.<b>  
+<u>A limited number of places and talks are still available.<u>  
 
 Registration and talks are granted on a first-come, first-served basis.  
 
