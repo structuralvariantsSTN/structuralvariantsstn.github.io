@@ -10,9 +10,19 @@ Registration opened on the 25th of February and closes on the 30th of April 2026
 
 <b>Abstract submission closes on the 15th of April 2026.</b>  
 
-A limited number of places and talks are available.  
+<b>A limited number of places and talks are available.<b>  
 
 Registration and talks are granted on a first-come, first-served basis.  
+
+Thanks to the very generous funding by the American Genetics Association (AGA) recently awarded to TiBE-STRiVE, we will also be able to support:  
+ 
+1. Participants with dependent-care responsibilities:  
+10 Childcare subsidies are available, which can be used to pay children travel and/or for some accompanying person that takes care of them (max. of 250 euros per participant). 
+ 
+2. Participants from under-represented countries or facing additional costs linked to disability, accessibility, or social inequality:  
+Support (amount not defined yet) will be available to pay costs related with accommodation and or travel costs.  
+
+If you are interested, please e-mail us as soon as possible (ruifaria@cibio.up.pt) to know the conditions and how to apply.  
 
 ## Fees  
 STRiVE members:  
