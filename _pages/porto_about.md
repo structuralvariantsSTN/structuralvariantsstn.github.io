@@ -98,8 +98,9 @@ Initiative supported by the European Union’s Horizon 2020 Research and Innovat
     <img src="/images/other/funding_strive.png" alt="Photo of funder 4" style="width: 25%; max-height: 150px; object-fit: contain;">
   </div>
   <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-    <img src="/images/other/funding_uporto.png" alt="Photo of funder 5" style="width: 33%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_vila.png" alt="Photo of funder 6" style="width: 33%; max-height: 150px; object-fit: contain;">
-    <img src="/images/other/funding_flad.png" alt="Photo of funder 7" style="width: 33%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_uporto.png" alt="Photo of funder 5" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_vila.png" alt="Photo of funder 6" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/funding_flad.png" alt="Photo of funder 7" style="width: 25%; max-height: 150px; object-fit: contain;">
+    <img src="/images/other/aga.png" alt="Photo of funder 8" style="width: 25%; max-height: 150px; object-fit: contain;">
   </div>
 </div>
