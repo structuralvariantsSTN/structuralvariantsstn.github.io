@@ -19,7 +19,9 @@ We are excited to announce our inaugural conference at CIBIO-BIOPOLIS in Vila do
 This event named “Trends in Biodiversity and Evolution: the evolutionary role of structural genomic variation (TiBE-STRiVE)” will feature cutting-edge science, foster interdisciplinary discussions, and initiate collaborative projects spanning the breadth of structural variant research.
 
 
-#### Important edits from early May
+
+
+#### [Important edits from early May]
 
 <b> A few seats for attendance and poster are still available. Late-bird registration is welcome [here](https://forms.gle/PJ4KQgYcR6K2fsdt7) </b>
 
@@ -29,6 +31,8 @@ This event named “Trends in Biodiversity and Evolution: the evolutionary role 
  * Participants from under-represented countries or facing additional costs linked to disability, accessibility, or social inequality: Support (amount not defined yet) will be available to pay costs related to accommodation and/or travel costs.  
 
 If you are interested, please contact us as soon as possible (ruifaria@cibio.up.pt) to know the conditions and how to apply.
+
+
 
 ### Important Dates  
 <b>Meeting dates:</b> 8th to 10th of July 2026  
