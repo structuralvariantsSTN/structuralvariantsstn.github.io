@@ -18,20 +18,32 @@ We are excited to announce our inaugural conference at CIBIO-BIOPOLIS in Vila do
 
 This event named “Trends in Biodiversity and Evolution: the evolutionary role of structural genomic variation (TiBE-STRiVE)” will feature cutting-edge science, foster interdisciplinary discussions, and initiate collaborative projects spanning the breadth of structural variant research.
 
-Registration opened in February 25th for members of the network and in the 30th of April for non-members. For registration and abstract submission, please fill [this online form](https://forms.gle/PJ4KQgYcR6K2fsdt7)
+[edit from early May] 
+<b> A few seats for attendance and poster are still available. Late-bird registration is welcome [here](https://forms.gle/PJ4KQgYcR6K2fsdt7) </b>
+
+<b> Thanks to the very generous funding by the American Genetics Association (AGA) recently awarded to TiBE-STRiVE, we will be able to support some travel and attendance grants </b>
+
+ * Participants with dependent-care responsibilities: 10 Childcare subsidies are available, which can be used to pay for children's travel and/or for some accompanying person who takes care of them (max. of 250 euros per participant).
+ * 
+ * Participants from under-represented countries or facing additional costs linked to disability, accessibility, or social inequality: Support (amount not defined yet) will be available to pay costs related to accommodation and/or travel costs.  
+
+
+
+If you are interested, please e-mail us as soon as possible (ruifaria@cibio.up.pt) to know the conditions and how to apply.
 
 ### Important Dates  
 <b>Meeting dates:</b> 8th to 10th of July 2026  
+
 <b>Abstract submission deadline (for all participants)</b>:  
 • 15th of April 2026  
 <b>Registration deadline (for all participants))</b>:   
 • 30th of April 2026  
 <b>Notification of abstract acceptance: 20th of April 2026</b>  
 <b>Notification of registration acceptance: 30th of April 2026</b>  
-A limited number of places and talks are available. Registration and talks are granted on a first-come, first-served basis.
 
 
 <b>A limited number of places and talks are available. Registration and talks are granted on a first-come, first-served basis.</b>
+
 
 
 ### Invited Speakers
