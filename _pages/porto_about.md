@@ -19,6 +19,7 @@ We are excited to announce our inaugural conference at CIBIO-BIOPOLIS in Vila do
 This event named “Trends in Biodiversity and Evolution: the evolutionary role of structural genomic variation (TiBE-STRiVE)” will feature cutting-edge science, foster interdisciplinary discussions, and initiate collaborative projects spanning the breadth of structural variant research.
 
 [edit from early May] 
+
 <b> A few seats for attendance and poster are still available. Late-bird registration is welcome [here](https://forms.gle/PJ4KQgYcR6K2fsdt7) </b>
 
 <b> Thanks to the very generous funding by the American Genetics Association (AGA) recently awarded to TiBE-STRiVE, we will be able to support some travel and attendance grants </b>
