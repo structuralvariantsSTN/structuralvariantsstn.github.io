@@ -15,7 +15,9 @@ We aim to highlight:
 Talks will be on the last Wednesday of each month, starting in April 2026 (except for  summer/winter breaks). We plan to alternate between times convenient for different time zones. Talks and questions will be recorded and posted on our [YouTube channel](https://www.youtube.com/@structuralvariantsSTN).
 
 ### Next seminars 
-03/06/2026 3 pm CET: Aurora Ruiz-Herrera Moreno 
+03/06/2026 3 pm CET/9am EDT/6am PST/11pm AEST: Aurora Ruiz-Herrera Moreno "Structural variation through the lens of the 3D genome"
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/Ruiz-Herrera_may2026_seminar_poster_STRiVE.png" alt="Herrera_poster" style="width: 75%; object-fit: cover;">
 
 30/09/2026: Evan Eichler
 
