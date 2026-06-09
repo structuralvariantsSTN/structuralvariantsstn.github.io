@@ -10,6 +10,8 @@ Invited speakers: [Mark Kirkpatrick](https://kirkpatricklab.org/) & [Joana Meier
 ### July 7th (late afternoon/evening): 
 Registration & welcome reception
 
+We will have a welcome reception in one of the City Hall buildings (Casa da Memória) by late afternoon (exact time will be confirmed later). There, you can check in and join for welcome drinks (on the house). Otherwise, you can do the check-in early in the morning of the first conference day at the venue.
+
 ### July 8th:   
 <i>Morning</i>  
 Registration and Opening Ceremony  
