@@ -10,7 +10,7 @@ Our inaugural meeting will bring together ~100 researchers working on structural
 [Learn more about the Porto conference](https://structuralvariantsstn.github.io/porto_about/)  
 
 ### Special Issue in the Journal of Evolutionary Biology
-We are editing a JEB special issue titled “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until June 2026.  
+We are editing a JEB special issue titled “Genome Architecture and Evolution: How Structural and Genetic Variation Shapes Biodiversity.” Submissions are open until September 30th 2026.  
 
 Find out more information about the special issue [HERE](https://academic.oup.com/jeb/pages/call-for-papers-genome-architecture-and-evolution-how-structural-and-genetic-variation-shapes-biodiversity?login=false)  
 
