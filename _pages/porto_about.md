@@ -20,7 +20,6 @@ This event named “Trends in Biodiversity and Evolution: the evolutionary role 
 
 
 
-
 #### [Important edits from early May]
 
 <b> A few seats for attendance and poster are still available. Late-bird registration is welcome [here](https://forms.gle/PJ4KQgYcR6K2fsdt7) </b>
@@ -30,7 +29,7 @@ This event named “Trends in Biodiversity and Evolution: the evolutionary role 
  * Participants with dependent-care responsibilities: 10 Childcare subsidies are available, which can be used to pay for children's travel and/or for some accompanying person who takes care of them (max. of 250 euros per participant).
  * Participants from under-represented countries or facing additional costs linked to disability, accessibility, or social inequality: Support (amount not defined yet) will be available to pay costs related to accommodation and/or travel costs.  
 
-If you are interested, please contact us as soon as possible (ruifaria@cibio.up.pt) to know the conditions and how to apply.
+If you are interested, please contact us before June 18th (ruifaria@cibio.up.pt) to know the conditions and how to apply.
 
 
 
@@ -77,6 +76,8 @@ The municipality where the venue is located and of Porto:
   <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="width: 33%; max-height: 350px; object-fit: cover;">
   <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="width: 33%; max-height: 350px; object-fit: cover;">
 </div>
+
+We will have every day a free shuttle bus that will depart from the B&B hotel in Vila do Conde and then pass by the centre (near the city Market) to pick participants from other hotels to the conference venue. Vila do Conde is a small town, and all hotels/hostels will be within 5 to 20 minutes walking distance from this stop. This bus will also bring you back at the end of each conference day. Participants staying in other cities (e.g. Porto or Póvoa de Varzim) will have to take the Metro to Mindelo Station where the bus will also stop.
 
 ### Main Organization  
 Rui Faria, Aurora Ruiz Herrera, Marina Rafajlovic, Marius Roesti, Petr Neguyen, Kay Lucek, Maren Wellenreuther, Jenn Coughlan, Zach Gompert, Claire Merot, Benjamin Dauphin
