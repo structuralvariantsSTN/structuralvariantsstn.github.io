@@ -40,7 +40,8 @@ If you are interested, please contact us before June 18th (ruifaria@cibio.up.pt)
 • closed  
 <b>Registration deadline (for posters))</b>:   
 • 24th of June 2026  
-<b>Notification of abstract acceptance (for posters)</b>: 
+<b>Notification of abstract acceptance (for posters)</b>:
+
 • 24th of June 2026  
 <b>Registration deadline (for all participants)</b>:  
 • 24th of June 2026  
@@ -61,7 +62,7 @@ Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/mei
 
 Jeffrey Groh, [The University of California, Berkeley](https://jgroh.github.io/), USA 
 <p style="text-align: center;">
-  <img src="/images/other/jeffrey.jpg" alt="Photo of Jeffrey Groh" style="width: 250px; height: 250px; object-fit: cover;">
+  <img src="/images/other/jeffrey.jpg" alt="Photo of Jeffrey Groh" style="width: 200px; height: 250px; object-fit: cover;">
 </p>  
 
 ### Venue
