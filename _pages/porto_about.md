@@ -106,14 +106,23 @@ Looking forward to seeing you in Portugal!
 
 ### Funding and Support
 This event has received support from:
+
 •	The European Society for Evolutionary Biology (ESEB) via funding of the Special Topic Network on Structural Variation- STRiVE [https://tibe.biopolis.pt/](https://tibe.biopolis.pt/)
+
 •	American Genetic Association (AGA)
+
 •	FLAD- Fundação Luso-Americana para o Desenvolvimento, GL20260194
+
 •	The Portugal-Berkeley Program funded by the Foundation for Science and Technology (FCT) and the Luso-American Development Foundation (FLAD).
+
 •	University of Porto
+
 •	Portuguese Funds through FCT-Fundação para a Ciência e a Tecnologia in the scope of the project UID/50027 – Rede de Investigação em Biodiversidade e Biologia Evolutiva
+
 •	European Union’s Horizon 2020 research and innovation programme under grant agreement No 857251
+
 •	Regional NORTE 2030 Program via the project NORTE2030-FEDER-02130700 [https://www.norte2030.pt/norte2030_barracofinanciamento/](https://www.norte2030.pt/norte2030_barracofinanciamento/)
+
 •	LA/P/0048/2020
 
 
