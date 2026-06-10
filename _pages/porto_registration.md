@@ -6,13 +6,8 @@ permalink: /porto_registration/
 
 ## Registration and Abstract Submission
 
-Registration opened on the 25th of February and closes on the 30th of April 2026. Please, use [THIS FORM](https://forms.gle/nLaS6YBafH71yw1x5) for registration.  
-
-<b>Abstract submission closes on the 15th of April 2026.</b>  
-
-<u>A limited number of places and talks are still available.<u>  
-
-Registration and talks are granted on a first-come, first-served basis.  
+A limited number of places are still available.
+Registration and abstract submission for posters will be open until the 24th of June. Please, use [THIS FORM](https://forms.gle/nLaS6YBafH71yw1x5) for registration.  
 
 Thanks to the very generous funding by the American Genetics Association (AGA) recently awarded to TiBE-STRiVE, we will also be able to support:  
  
@@ -35,11 +30,8 @@ Non-STRiVE members:
 
 Registration is free for student and researchers affiliated with CIBIO- BIOPOLIS
 
-Registration fees include lunches, coffee breaks, welcome reception, shuttle and transport to Porto in the last day for a visit in the city.
+Registration fees include lunches, coffee breaks, welcome reception, shuttle and transport to Porto on the last day for a visit to the city.
 
 ## Mini Plenaries
-We intend to host two mini-plenaries given by ERC researchers (graduate students and postdocs).   
-These would be slightly longer talks (~30 minutes) with the aim of promoting more complete work from our junior colleagues.   
-Opportunity to apply for these can be found in the [form](https://forms.gle/nLaS6YBafH71yw1x5).  
-
-<b>Notification of acceptance of registration and abstract will be sent until the 20th of April 2026.</b>  
+Three mini-plenaries by early-career researchers were selected.   
+ 
