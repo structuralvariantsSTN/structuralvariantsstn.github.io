@@ -40,8 +40,7 @@ If you are interested, please contact us before June 18th (ruifaria@cibio.up.pt)
 • closed  
 <b>Registration deadline (for posters))</b>:   
 • 24th of June 2026  
-<b>Notification of abstract acceptance (for posters)</b>:
-
+<b>Notification of poster acceptance (for all participants)</b>:  
 • 24th of June 2026  
 <b>Registration deadline (for all participants)</b>:  
 • 24th of June 2026  
