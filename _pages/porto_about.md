@@ -34,17 +34,16 @@ If you are interested, please contact us before June 18th (ruifaria@cibio.up.pt)
 
 
 ### Important Dates  
-<b>Meeting dates:</b> 8th to 10th of July 2026  
+<b>Meeting dates:</b> 8th to 10th of July 2026  (with a welcome reception by late afternoon of the 7th of July)
 
-<b>Abstract submission deadline (for all participants)</b>:  
-• 15th of April 2026  
-<b>Registration deadline (for all participants))</b>:   
-• 30th of April 2026  
-<b>Notification of abstract acceptance: 20th of April 2026</b>  
-<b>Notification of registration acceptance: 30th of April 2026</b>  
-
-
-<b>A limited number of places and talks are available. Registration and talks are granted on a first-come, first-served basis.</b>
+<b>Abstract submission deadline (for talks)</b>:  
+• closed  
+<b>Registration deadline (for posters))</b>:   
+• 24th of June 2026  
+<b>Notification of abstract acceptance (for posters)</b>: 
+• 24th of June 2026  
+<b>Registration deadline (for all participants)</b>:  
+• 24th of June 2026  
 
 
 
@@ -60,24 +59,29 @@ Joana Meier, [The Wellcome Sanger Institute](https://www.sanger.ac.uk/person/mei
   <img src="/images/other/joana_meier.jpg" alt="Photo of Joana" style="width: 250px; height: 250px; object-fit: cover;">
 </p>
 
+Jeffrey Groh, [The University of California, Berkeley](https://jgroh.github.io/), USA 
+<p style="text-align: center;">
+  <img src="/images/other/jeffrey.jpg" alt="Photo of Jeffrey Groh" style="width: 250px; height: 250px; object-fit: cover;">
+</p>  
+
 ### Venue
 
 Quinta do Crasto, an old farm and agricultural museum recently converted into a Biodiversity research laboratory: CIBIO- Associação BIOPOLIS, University of Porto, Portugal.  
 
-View of Vila do Conde:  
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/other/venue1.1.jpg" alt="Photo of venue 1" style="width: 50%; max-height: 350px; object-fit: cover;">
-  <img src="/images/other/venue1.2.jpg" alt="Photo of venue 2" style="width: 50%; max-height: 350px; object-fit: cover;">
-</div>
+## Shuttle bus
 
-The municipality where the venue is located and of Porto: 
+There will be a daily bus to take the participants from Vila do Conde to the Venue in Quinta do Crasto. The Bus will start from the Hotel B&B and then stop in a Bus stop in the centre of Vila do Conde (near the market, we will later send coordinates. This stop is within 5 to 20 minutes walking distance from any hotel/hostel in Vila do Conde.
+
+If you come daily from Porto, you will have to come by Metro and leave in Mindelo station where the bus will pick you to the venue.
+The opposite trajectory will be taken at the end of each conference day and leave you in the same points.
+
+
+The municipality where the venue is located : 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/venue2.1.jpg" alt="Photo of venue 3" style="width: 33%; max-height: 350px; object-fit: cover;">
   <img src="/images/other/venue2.2.jpg" alt="Photo of venue 4" style="width: 33%; max-height: 350px; object-fit: cover;">
   <img src="/images/other/venue2.3.jpg" alt="Photo of venue 5" style="width: 33%; max-height: 350px; object-fit: cover;">
 </div>
-
-We will have every day a free shuttle bus that will depart from the B&B hotel in Vila do Conde and then pass by the centre (near the city Market) to pick participants from other hotels to the conference venue. Vila do Conde is a small town, and all hotels/hostels will be within 5 to 20 minutes walking distance from this stop. This bus will also bring you back at the end of each conference day. Participants staying in other cities (e.g. Porto or Póvoa de Varzim) will have to take the Metro to Mindelo Station where the bus will also stop.
 
 ### Main Organization  
 Rui Faria, Aurora Ruiz Herrera, Marina Rafajlovic, Marius Roesti, Petr Neguyen, Kay Lucek, Maren Wellenreuther, Jenn Coughlan, Zach Gompert, Claire Merot, Benjamin Dauphin
@@ -89,6 +93,7 @@ Ralph Merrifield (CIBIO, U. Porto)
 Susana Almeida (CCMAR, U. Algarve)  
 João Carvalho (CIBIO, U. Porto)  
 Leonor Bezerra (CIBIO, U. Lisbon)  
+André Vidal Cápon (U. Vigo)
  
 ### Contacts
 Administrative inquiries: marta.pereira@biopolis.pt  
@@ -100,12 +105,18 @@ Scientific inquiries: ruifaria@cibio.up.pt
 Looking forward to seeing you in Portugal!  
 
 ### Funding and Support
-This event has received support from the Regional NORTE 2030 Program via the project NORTE2030-FEDER-02130700: [https://www.norte2030.pt/norte2030_barracofinanciamento/](https://www.norte2030.pt/norte2030_barracofinanciamento/)   
-UID/50027/2025: Rede de Investigação em Biodiversidade e Biologia Evolutiva  
-LA/P/0048/2020: [https://www.fct.pt/media/media-e-identidade-de-marca/](https://www.fct.pt/media/media-e-identidade-de-marca/)    
- 
-Initiative supported by the European Union’s Horizon 2020 Research and Innovation Programme under the Grant Agreement Number 857251.  
-  
+This event has received support from:
+•	The European Society for Evolutionary Biology (ESEB) via funding of the Special Topic Network on Structural Variation- STRiVE [https://tibe.biopolis.pt/](https://tibe.biopolis.pt/)
+•	American Genetic Association (AGA)
+•	FLAD- Fundação Luso-Americana para o Desenvolvimento, GL20260194
+•	The Portugal-Berkeley Program funded by the Foundation for Science and Technology (FCT) and the Luso-American Development Foundation (FLAD).
+•	University of Porto
+•	Portuguese Funds through FCT-Fundação para a Ciência e a Tecnologia in the scope of the project UID/50027 – Rede de Investigação em Biodiversidade e Biologia Evolutiva
+•	European Union’s Horizon 2020 research and innovation programme under grant agreement No 857251
+•	Regional NORTE 2030 Program via the project NORTE2030-FEDER-02130700 [https://www.norte2030.pt/norte2030_barracofinanciamento/](https://www.norte2030.pt/norte2030_barracofinanciamento/)
+•	LA/P/0048/2020
+
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
     <img src="/images/other/funding_biopolis.jpg" alt="Photo of funder 1" style="width: 25%; max-height: 150px; object-fit: contain;">
@@ -118,5 +129,9 @@ Initiative supported by the European Union’s Horizon 2020 Research and Innovat
     <img src="/images/other/funding_vila.png" alt="Photo of funder 6" style="width: 25%; max-height: 150px; object-fit: contain;">
     <img src="/images/other/funding_flad.png" alt="Photo of funder 7" style="width: 25%; max-height: 150px; object-fit: contain;">
     <img src="/images/other/aga.png" alt="Photo of funder 8" style="width: 25%; max-height: 150px; object-fit: contain;">
+      <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="/images/other/logo1.jpg" alt="Photo of funder 9" 
+        <div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+    <img src="/images/other/logo2.jpg" alt="Photo of funder 10" 
   </div>
 </div>
