@@ -4,6 +4,9 @@ layout: archive
 permalink: /porto_travel/
 ---  
 
+## Transport from Vila do Conde to the conference Venue and back during the conference days
+A free bus shuttle will be available from Hotel B&B and stopping in the town centre (5 to 20 minutes walking distance from the hotels mentioned above) to transport everyone staying in Vila do Conde to the Venue (and back).
+
 ## How to get to Vila do Conde
 
 <b>By Metro – from Porto</b>  
@@ -48,8 +51,6 @@ To benefit from this, please send an e-mail to this address: hotel.viladoconde@h
 3. [Villa C Boutique Hotel](https://www.guestreservations.com/villa-c-hotel-and-spa/booking)  
 While booking online use the code "TIBE2026" in the field PROMOS and this is how it will look. Chose the price TiBE 2026. 
 
-<b>Transport from Vila do Conde to the conference Venue in the conference days</b>  
 
-A free shuttle will be available from the town centre (5 to 20 minutes walking distance from the hotels mentioned above) to transport everyone staying in Vila do Conde.
 
 
