@@ -76,7 +76,7 @@ Plenary talks will be 30 min + 15 min for discussion.
 
 
 * Posters
-* 
+  
 Format A0. Posters will be displayed during the entire conference, including coffee breaks.
 
 ### Venue
