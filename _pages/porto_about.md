@@ -64,6 +64,21 @@ Jeffrey Groh, [The University of California, Berkeley](https://jgroh.github.io/)
   <img src="/images/other/jeffrey.jpg" alt="Photo of Jeffrey Groh" style="width: 200px; height: 250px; object-fit: cover;">
 </p>  
 
+### Presentation instructions
+
+* Talks
+  
+Regular communications will last 12 min with 3 min for discussion.
+
+Mini-plenary communications will last 20 min + 10 min for discussion.
+
+Plenary talks will be 30 min + 15 min for discussion.
+
+
+* Posters
+* 
+Format A0. Posters will be displayed during the entire conference, including coffee breaks.
+
 ### Venue
 
 Quinta do Crasto, an old farm and agricultural museum recently converted into a Biodiversity research laboratory: CIBIO- Associação BIOPOLIS, University of Porto, Portugal.  
