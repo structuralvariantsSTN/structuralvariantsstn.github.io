@@ -4,8 +4,6 @@ layout: archive
 permalink: /porto_program/
 ---
 
-# General Programme
-
 ## July 7th (Tuesday)
 
 **Centro de Memória Building**, Vila do Conde
