@@ -4,8 +4,6 @@ layout: archive
 permalink: /book_of_abstracts/
 ---
 
-# Book of Abstracts
-
 The Book of Abstracts for the TIBE-STRiVE Porto 2026 meeting is available below.
 
 ## Download
