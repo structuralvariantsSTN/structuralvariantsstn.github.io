@@ -110,11 +110,18 @@ permalink: /porto_program/
 
 ---
 
-## Detailed Programme
+---
 
-The full conference schedule, including session times, is available online:
+# Detailed Programme
 
-**📄 Detailed Programme:**  
-https://tibe.biopolis.pt/detailed-program/
+The full conference programme, including the complete timetable, session details, and abstracts, is available below.
 
-You can also download the programme as a **PDF** from the same page.
+<iframe
+    src="/pdf/Detailed%20program_V3.pdf"
+    width="100%"
+    height="900"
+    style="border:1px solid #ddd;">
+</iframe>
+
+If the PDF does not display in your browser, you can
+[download it here](/pdf/Detailed%20program_V3.pdf).
