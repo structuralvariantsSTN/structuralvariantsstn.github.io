@@ -120,7 +120,7 @@ The full conference programme, including the complete timetable, session details
     src="/pdf/Detailed%20program_V3.pdf"
     width="100%"
     height="900"
-    style="border:1px solid #ddd;">
+    style="border:none;">
 </iframe>
 
 If the PDF does not display in your browser, you can
