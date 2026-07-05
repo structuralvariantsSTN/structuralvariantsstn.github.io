@@ -28,6 +28,8 @@ pages:
         url: /porto_about/ 
       - title: " - Program"
         url: /porto_program/ 
+      - title: "Book of Abstracts"
+        url: /book_of_abstracts/
       - title: " - Registration"
         url: /porto_registration/
       - title: " - Travel and accommodation"
