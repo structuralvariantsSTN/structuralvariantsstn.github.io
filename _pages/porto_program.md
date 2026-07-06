@@ -77,7 +77,6 @@ permalink: /porto_program/
 - Pascal Milesi — *Showcase of the rCNV framework for calling gene copy number variations from SNP data*
 
 - Discussion in break-out rooms
-- Poster session
 - Vila do Conde Walking City Tour
 
 ---
