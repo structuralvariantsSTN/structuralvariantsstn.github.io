@@ -23,6 +23,7 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Eichler_september2026_seminar_poster_STRiVE-1.png" alt="Eichler_poster" style="width: 75%; object-fit: cover;">
+</div>
 
 * 28/10/2026: Nina Therkildsen
 
@@ -35,10 +36,10 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Ruiz-Herrera_may2026_seminar_poster_STRiVE-1.png" alt="Herrera_poster" style="width: 25%; object-fit: cover;">
-
+</div>
   
 * 29/04/2026 6 pm CET/9 am PST: Loren Rieseberg "Structural variation as a catalyst of adaptation and speciation: from populations to kingdom"
   
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Rieseberg_april2026_seminar_poster_STRiVE-1.png" alt="Rieseberg_poster" style="width: 25%; object-fit: cover;">
- 
+ </div>
