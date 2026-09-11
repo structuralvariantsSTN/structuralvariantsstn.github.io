@@ -15,25 +15,30 @@ We aim to highlight:
 Talks will be on the last Wednesday of each month, starting in April 2026 (except for  summer/winter breaks). We plan to alternate between times convenient for different time zones. Talks and questions will be recorded and posted on our [YouTube channel](https://www.youtube.com/@structuralvariantsSTN).
 
 ### Next seminars 
-30/09/2026  6 pm CET/9 am PST: Evan Eichler "Segmental Duplication and the evolution of novel ape genes"
+
+
+* 30/09/2026  6 pm CET/9 am PST: Evan Eichler "Segmental Duplication and the evolution of novel ape genes"
 [webinar link](https://gu-se.zoom.us/j/61999743774)
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Eichler_september2026_seminar_poster_STRiVE-1.png" alt="Eichler_poster" style="width: 75%; object-fit: cover;">
 
+* 28/10/2026: Nina Therkildsen
 
-28/10/2026: Nina Therkildsen
 
 
 ### Past seminars 
 
-03/06/2026 3 pm CET/9am EDT/6am PST/11pm AEST: Aurora Ruiz-Herrera Moreno "Structural variation through the lens of the 3D genome"
+
+* 03/06/2026 3 pm CET/9am EDT/6am PST/11pm AEST: Aurora Ruiz-Herrera Moreno "Structural variation through the lens of the 3D genome"
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Ruiz-Herrera_may2026_seminar_poster_STRiVE-1.png" alt="Herrera_poster" style="width: 25%; object-fit: cover;">
+
   
-29/04/2026 6 pm CET/9 am PST: Loren Rieseberg 
+* 29/04/2026 6 pm CET/9 am PST: Loren Rieseberg
+* 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Rieseberg_april2026_seminar_poster_STRiVE-1.png" alt="Rieseberg_poster" style="width: 25%; object-fit: cover;">
  
