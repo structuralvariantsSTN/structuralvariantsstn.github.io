@@ -18,15 +18,17 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 30/09/2026  6 pm CET/9 am PST: Evan Eichler "Segmental Duplication and the evolution of novel ape genes"
 [webinar link](https://gu-se.zoom.us/j/61999743774)
 
+
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Eichler_september2026_seminar_poster_STRiVE-1.png" alt="Eichler_poster" style="width: 75%; object-fit: cover;">
 
+
 28/10/2026: Nina Therkildsen
+
 
 ### Past seminars 
 
 03/06/2026 3 pm CET/9am EDT/6am PST/11pm AEST: Aurora Ruiz-Herrera Moreno "Structural variation through the lens of the 3D genome"
-[webinar link](https://gu-se.zoom.us/j/61999743774)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/other/Ruiz-Herrera_may2026_seminar_poster_STRiVE-1.png" alt="Herrera_poster" style="width: 25%; object-fit: cover;">
