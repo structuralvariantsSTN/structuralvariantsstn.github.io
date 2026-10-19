@@ -21,7 +21,7 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/other/Therkildsen_october2026_seminar_poster_STRiVE-1.png" alt="Eichler_poster" style="width: 75%; object-fit: cover;">
+  <img src="/images/other/Therkildsen_october2026_seminar_poster_STRiVE-1.png" alt="Therkildsen_poster" style="width: 75%; object-fit: cover;">
 </div>
 
 
