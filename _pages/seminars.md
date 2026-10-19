@@ -31,7 +31,6 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 ### Past seminars 
 * 30/09/2026  6 pm CET/9 am PST: Evan Eichler "Segmental Duplication and the evolution of novel ape genes"
-[webinar link](https://gu-se.zoom.us/j/61999743774)
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
