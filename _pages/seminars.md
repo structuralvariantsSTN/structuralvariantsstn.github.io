@@ -17,7 +17,7 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 ### Next seminars 
 
 * 28/10/2026  5 pm CET/ 9 am PDT /12 pm EDT / 3 am AEDT: Nina Therkildsen "Beyond ecotypes: How chromosomal inversions shape continuous local adaptation"
-[webinar link](https://gu-se.zoom.us/j/61999743774)
+[webinar link](https://gu-se.zoom.us/j/67029032395)
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -25,7 +25,7 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 </div>
 
 
-* 25/11/2026: TBD
+* 25/11/2026 8 am CET / 6 pm AEDT: Professor Kay Hodgins
 
 
 
