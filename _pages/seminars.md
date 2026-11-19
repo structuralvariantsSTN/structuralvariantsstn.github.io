@@ -16,20 +16,22 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 
 ### Next seminars 
 
-* 28/10/2026  5 pm CET/ 9 am PDT /12 pm EDT / 3 am AEDT: Nina Therkildsen "Beyond ecotypes: How chromosomal inversions shape continuous local adaptation"
-[webinar link](https://gu-se.zoom.us/j/67029032395)
+* 25/11/2026  8 am CET/ 6 pm AEDT: Kay Hodgins "Structural variation and rapid adaptation during plant invasions"
+[webinar link](TBA)
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/other/Therkildsen_october2026_seminar_poster_STRiVE-1.png" alt="Therkildsen_poster" style="width: 75%; object-fit: cover;">
+  <img src="/images/other/Hodgins_november2026_seminar_poster_STRiVE.jpg" alt="Strive_poster" style="width: 75%; object-fit: cover;">
 </div>
 
 
-* 25/11/2026 8 am CET / 6 pm AEDT: Professor Kay Hodgins
-
-
-
 ### Past seminars 
+* 28/10/2026  5 pm CET/ 9 am PDT /12 pm EDT / 3 am AEDT: Nina Therkildsen "Beyond ecotypes: How chromosomal inversions shape continuous local adaptation"
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/other/Therkildsen_october2026_seminar_poster_STRiVE-1.png" alt="Therkildsen_poster" style="width: 25%; object-fit: cover;">
+</div>
+
 * 30/09/2026  6 pm CET/9 am PST: Evan Eichler "Segmental Duplication and the evolution of novel ape genes"
 
 
