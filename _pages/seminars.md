@@ -17,7 +17,7 @@ Talks will be on the last Wednesday of each month, starting in April 2026 (excep
 ### Next seminars 
 
 * 25/11/2026  8 am CET/ 2 am EDT/ 12 am PDT/ 6 pm AEDT: Kay Hodgins "Structural variation and rapid adaptation during plant invasions"
-[webinar link](TBA)
+[webinar link](https://gu-se.zoom.us/j/67151486645)
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
